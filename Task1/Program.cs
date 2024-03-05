@@ -2,9 +2,6 @@
 // которая выведет все натуральные числа в промежутке от M до N. 
 // Использовать рекурсию, не использовать циклы.
 
-using System.Diagnostics.Contracts;
-using System.Runtime.Intrinsics.Arm;
-
 int[] Input2Nums()
 {
   int[] inputNums = new int[2];
